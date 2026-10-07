@@ -1,0 +1,3 @@
+Model,Accuracy,Median Train Time (ms),Median Inference Latency (ms),Size (Bytes),Size (KB),Train RSS Delta (MB)
+LogisticRegression,0.9415,1500.91,0.0874,1103,1.08,0.09
+RandomForest,0.9357,117.72,1.7297,290905,284.09,0.94
